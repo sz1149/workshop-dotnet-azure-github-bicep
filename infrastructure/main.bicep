@@ -1,5 +1,5 @@
 param location string = 'centralus'
-@allowed(['dev', 'prod'])
+@allowed(['dev', 'qa', 'uat', 'prod'])
 param environment string
 
 targetScope = 'resourceGroup'
