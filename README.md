@@ -1,3 +1,5 @@
+
+
 # workshop-dotnet-azure-github-bicep
 
 In this workshop we're going to cover .NET, Azure, GitHub, and Bicep.
